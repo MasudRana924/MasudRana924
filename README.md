@@ -4,3 +4,4 @@
 - 💬 Ask me about .. anything 
 - 📫 How to reach me: masud15-924@diu.edu.bd
 - 📫 My portfolio : https://masud924portfolio.netlify.app/
+- 📫 My Linkedin : https://www.linkedin.com/in/masud-rana-673b3821b/
