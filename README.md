@@ -1,15 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Masud Rana</h1>
-<h3 align="start">Passionate and experienced Junior MERN Stack Developer with a focus on creating dynamic and engaging web applications using React.js. I have experience working with a team under pressure with Spring Rain Private Limited. I am dedicated to delivering high-quality, user-centric solutions and also dedicated to continuously improving my skills with latest frontend technologies.</h3>
-
-<p>My Another Github Profile Link </p>
- <p align="left"> https://github.com/MasudRana924 </p>
+<h3 align="start"> Passionate and experienced Associate Software Engineer at Brain Station 23 PLC, specializing in full-stack development with Node.js, React.js, MongoDB, and Next.js. Dedicated to creating dynamic and engaging web applications with a focus on delivering high-quality, user-centric solutions. Experienced in working collaboratively within teams to meet project goals and continuously improving skills with the latest frontend technologies. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudrana15924&label=Profile%20views&color=0e75b6&style=flat" alt="masudrana15924" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Health Bridge](https://health-bridge-4179.vercel.app/)
 
 - 🌱 I’m currently learning **Python, django**
 
@@ -17,7 +12,7 @@
 
 - 💬 Ask me about **React JS , NextsJS , NodeJS**
 
-- 📫 How to reach me **masud15-924@diu.edu.bd**
+- 📫 How to reach me **masud.cse.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
