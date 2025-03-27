@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Masud Rana</h1>
-<h3 align="start"> Passionate and experienced Software Engineer at Brain Station 23 PLC, specializing in full-stack development with Node.js, React.js, MongoDB, and Next.js. Dedicated to creating dynamic and engaging web applications with a focus on delivering high-quality, user-centric solutions. Experienced in working collaboratively within teams to meet project goals and continuously improving skills with the latest frontend technologies. </h3>
+<h3 align="start"> Innovative Full-Stack & Mobile Engineer at Brain Station 23 PLC, specializing in high-performance web and mobile applications using Node.js, React.js, React Native, MongoDB, and Next.js. Passionate about crafting scalable, cross-platform solutions that blend cutting-edge technology with intuitive UX/UI design. Adept at leading cross-functional teams to deliver robust, maintainable, and high-impact applications for both web and mobile. Continuously exploring emerging tech trends to drive performance, security, and user engagement in every project. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masudrana15924&label=Profile%20views&color=0e75b6&style=flat" alt="masudrana15924" /> </p>
 
